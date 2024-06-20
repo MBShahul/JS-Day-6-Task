@@ -1,5 +1,5 @@
-# "This is JS Day - 6 Task"
-**Date: 23-05-2024**
+# "This is JS Day - 5 Task"
+**Date: 05-05-2024**
 
 # Question 1
 
